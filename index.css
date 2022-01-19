@@ -1,0 +1,63 @@
+#header{
+
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: black;
+    padding: 50px;
+    text-align: center;
+        }
+
+#logodiv img{
+margin-top:20px;
+float:left;
+}
+#logodiv img2{
+margin-top:20px;
+float:right;
+}
+
+.menu{
+    list-style: none;
+    margin: 0;
+    padding: 0
+    background-color: #332f27;
+    overflow: hidden;
+
+    }
+
+.menu li{
+    float: right;
+        }
+
+.menu li a{
+        display: block;
+        color: purple;
+        text-align: left;
+        padding: 14px 16px;
+        text-decoration: none;
+            }
+
+.menu li:hover{
+        background-color: #8aa5ce;
+
+        }
+
+.menu li{
+    float: right;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #B4F289;
+    }
+
+
+
+body{
+    margin: 0;
+    font-family: Bookman Old style;
+    background-color: #dde1e0
+    }
